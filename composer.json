@@ -1,0 +1,13 @@
+{
+    "name": "simplemvc/app",
+    "description": "simpleapp",
+    "authors": [
+        {
+            "name": "baleevskii",
+            "email": "baleevskii@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "2.5.1"
+    }
+}
